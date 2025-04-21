@@ -2,23 +2,23 @@
   "items": [
     {
       "name": "Product Name 1",
-      "image": "https://yoonhongmi.gitlab.io/work/img/img_product_1.png",
-      "icon": "https://yoonhongmi.gitlab.io/work/img/icon_alarm.png"
+      "image": "https://yoonhongmi.github.io/img_product_1.png",
+      "icon": "https://yoonhongmi.github.io/icon_alarm.png"
     },
     {
       "name": "Product Name 2",
-      "image": "https://yoonhongmi.gitlab.io/work/img/img_product_1.png",
-      "icon": "https://yoonhongmi.gitlab.io/work/img/icon_alarm.png"
+      "image": "https://yoonhongmi.github.io/img_product_1.png",
+      "icon": "https://yoonhongmi.github.io/icon_alarm.png"
     },
     {
       "name": "Product Name 3",
-      "image": "https://yoonhongmi.gitlab.io/work/img/img_product_1.png",
-      "icon": "https://yoonhongmi.gitlab.io/work/img/icon_alarm.png"
+      "image": "https://yoonhongmi.github.io/img_product_1.png",
+      "icon": "https://yoonhongmi.github.io/icon_alarm.png"
     },
     {
       "name": "Product Name 4",
-      "image": "https://yoonhongmi.gitlab.io/work/img/img_product_1.png",
-      "icon": "https://yoonhongmi.gitlab.io/work/img/icon_alarm.png"
+      "image": "https://yoonhongmi.github.io/img_product_1.png",
+      "icon": "https://yoonhongmi.github.io/icon_alarm.png"
     }
   ]
 }
