@@ -1,4 +1,5 @@
-[
+{
+  "items": [
     {
       "name": "Product Name 1",
       "image": "https://yoonhongmi.gitlab.io/work/img/img_product_1.png",
@@ -20,3 +21,4 @@
       "icon": "https://yoonhongmi.gitlab.io/work/img/icon_alarm.png"
     }
   ]
+}
